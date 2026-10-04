@@ -1,0 +1,6 @@
+{
+  "name": "CryptoSphere Orderflow Terminal",
+  "description": "Institutional-grade Crypto Orderflow Trading Terminal with synchronized 4-chart divergence alignment engine, dynamic liquidity wall 3D gravitational pull, POI absorption tracker, liquidation heatmaps, and live Binance Perpetual Futures WebSocket integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
